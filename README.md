@@ -1,5 +1,5 @@
 # Pynder
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Important Disclaimer
 Pynder was **NOT** created with any malicious purpose.
 The source code is only reported for study purposes and didactics.
